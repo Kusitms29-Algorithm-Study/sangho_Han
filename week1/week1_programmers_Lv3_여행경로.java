@@ -1,3 +1,5 @@
+package week1;
+
 import java.util.*;
 
 class week1_programmers_Lv3_여행경로 {
