@@ -3,7 +3,7 @@ package week8;
 import java.io.*;
 import java.util.*;
 
-public class week7_baekjoon_G3_1644_소수의_연속합 {
+public class week8_baekjoon_G3_1644_소수의_연속합 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
