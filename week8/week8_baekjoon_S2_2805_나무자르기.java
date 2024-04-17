@@ -3,7 +3,7 @@ package week8;
 import java.io.*;
 import java.util.*;
 
-public class week7_baekjoon_S2_2805_나무자르기 {
+public class week8_baekjoon_S2_2805_나무자르기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
